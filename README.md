@@ -1,4 +1,6 @@
 BambergPremium.github.io
 ========================
 
-GitHub Pages
+Alle in diesem Repository ist automatisch verfügbar unter:
+
+http://bamberg-premium.net
